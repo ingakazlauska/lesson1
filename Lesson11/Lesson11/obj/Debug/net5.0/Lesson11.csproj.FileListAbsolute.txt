@@ -1,0 +1,16 @@
+C:\Programmēšana\Lesson11\Lesson11\bin\Debug\net5.0\Lesson11.exe
+C:\Programmēšana\Lesson11\Lesson11\bin\Debug\net5.0\Lesson11.deps.json
+C:\Programmēšana\Lesson11\Lesson11\bin\Debug\net5.0\Lesson11.runtimeconfig.json
+C:\Programmēšana\Lesson11\Lesson11\bin\Debug\net5.0\Lesson11.runtimeconfig.dev.json
+C:\Programmēšana\Lesson11\Lesson11\bin\Debug\net5.0\Lesson11.dll
+C:\Programmēšana\Lesson11\Lesson11\bin\Debug\net5.0\ref\Lesson11.dll
+C:\Programmēšana\Lesson11\Lesson11\bin\Debug\net5.0\Lesson11.pdb
+C:\Programmēšana\Lesson11\Lesson11\obj\Debug\net5.0\Lesson11.csproj.AssemblyReference.cache
+C:\Programmēšana\Lesson11\Lesson11\obj\Debug\net5.0\Lesson11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programmēšana\Lesson11\Lesson11\obj\Debug\net5.0\Lesson11.AssemblyInfoInputs.cache
+C:\Programmēšana\Lesson11\Lesson11\obj\Debug\net5.0\Lesson11.AssemblyInfo.cs
+C:\Programmēšana\Lesson11\Lesson11\obj\Debug\net5.0\Lesson11.csproj.CoreCompileInputs.cache
+C:\Programmēšana\Lesson11\Lesson11\obj\Debug\net5.0\Lesson11.dll
+C:\Programmēšana\Lesson11\Lesson11\obj\Debug\net5.0\ref\Lesson11.dll
+C:\Programmēšana\Lesson11\Lesson11\obj\Debug\net5.0\Lesson11.pdb
+C:\Programmēšana\Lesson11\Lesson11\obj\Debug\net5.0\Lesson11.genruntimeconfig.cache
