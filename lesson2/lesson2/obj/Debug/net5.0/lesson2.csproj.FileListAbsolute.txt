@@ -1,0 +1,16 @@
+C:\Programmēšana\lesson2\lesson2\obj\Debug\net5.0\lesson2.csproj.AssemblyReference.cache
+C:\Programmēšana\lesson2\lesson2\obj\Debug\net5.0\lesson2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programmēšana\lesson2\lesson2\obj\Debug\net5.0\lesson2.AssemblyInfoInputs.cache
+C:\Programmēšana\lesson2\lesson2\obj\Debug\net5.0\lesson2.AssemblyInfo.cs
+C:\Programmēšana\lesson2\lesson2\obj\Debug\net5.0\lesson2.csproj.CoreCompileInputs.cache
+C:\Programmēšana\lesson2\lesson2\bin\Debug\net5.0\lesson2.exe
+C:\Programmēšana\lesson2\lesson2\bin\Debug\net5.0\lesson2.deps.json
+C:\Programmēšana\lesson2\lesson2\bin\Debug\net5.0\lesson2.runtimeconfig.json
+C:\Programmēšana\lesson2\lesson2\bin\Debug\net5.0\lesson2.runtimeconfig.dev.json
+C:\Programmēšana\lesson2\lesson2\bin\Debug\net5.0\lesson2.dll
+C:\Programmēšana\lesson2\lesson2\bin\Debug\net5.0\ref\lesson2.dll
+C:\Programmēšana\lesson2\lesson2\bin\Debug\net5.0\lesson2.pdb
+C:\Programmēšana\lesson2\lesson2\obj\Debug\net5.0\lesson2.dll
+C:\Programmēšana\lesson2\lesson2\obj\Debug\net5.0\ref\lesson2.dll
+C:\Programmēšana\lesson2\lesson2\obj\Debug\net5.0\lesson2.pdb
+C:\Programmēšana\lesson2\lesson2\obj\Debug\net5.0\lesson2.genruntimeconfig.cache

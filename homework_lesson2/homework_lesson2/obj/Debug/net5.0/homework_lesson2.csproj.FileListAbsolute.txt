@@ -1,0 +1,16 @@
+C:\Programmēšana\homework_lesson2\homework_lesson2\bin\Debug\net5.0\homework_lesson2.exe
+C:\Programmēšana\homework_lesson2\homework_lesson2\bin\Debug\net5.0\homework_lesson2.deps.json
+C:\Programmēšana\homework_lesson2\homework_lesson2\bin\Debug\net5.0\homework_lesson2.runtimeconfig.json
+C:\Programmēšana\homework_lesson2\homework_lesson2\bin\Debug\net5.0\homework_lesson2.runtimeconfig.dev.json
+C:\Programmēšana\homework_lesson2\homework_lesson2\bin\Debug\net5.0\homework_lesson2.dll
+C:\Programmēšana\homework_lesson2\homework_lesson2\bin\Debug\net5.0\ref\homework_lesson2.dll
+C:\Programmēšana\homework_lesson2\homework_lesson2\bin\Debug\net5.0\homework_lesson2.pdb
+C:\Programmēšana\homework_lesson2\homework_lesson2\obj\Debug\net5.0\homework_lesson2.csproj.AssemblyReference.cache
+C:\Programmēšana\homework_lesson2\homework_lesson2\obj\Debug\net5.0\homework_lesson2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programmēšana\homework_lesson2\homework_lesson2\obj\Debug\net5.0\homework_lesson2.AssemblyInfoInputs.cache
+C:\Programmēšana\homework_lesson2\homework_lesson2\obj\Debug\net5.0\homework_lesson2.AssemblyInfo.cs
+C:\Programmēšana\homework_lesson2\homework_lesson2\obj\Debug\net5.0\homework_lesson2.csproj.CoreCompileInputs.cache
+C:\Programmēšana\homework_lesson2\homework_lesson2\obj\Debug\net5.0\homework_lesson2.dll
+C:\Programmēšana\homework_lesson2\homework_lesson2\obj\Debug\net5.0\ref\homework_lesson2.dll
+C:\Programmēšana\homework_lesson2\homework_lesson2\obj\Debug\net5.0\homework_lesson2.pdb
+C:\Programmēšana\homework_lesson2\homework_lesson2\obj\Debug\net5.0\homework_lesson2.genruntimeconfig.cache
