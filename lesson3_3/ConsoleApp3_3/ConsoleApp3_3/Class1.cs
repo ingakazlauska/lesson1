@@ -18,7 +18,7 @@ namespace ConsoleApp3_3
         public bool MethodCall { get; set; }
         public bool MethodSendSMS { get; set; }
 
-        public String GetType()
+        public String GetType();
                 string type = "My phone type is " + Type + " and I am " + Age + " years old!";
     }
 }

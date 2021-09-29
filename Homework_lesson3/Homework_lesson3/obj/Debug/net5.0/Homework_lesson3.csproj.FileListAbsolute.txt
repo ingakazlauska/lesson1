@@ -1,0 +1,5 @@
+C:\Programmēšana\Homework_lesson3\Homework_lesson3\obj\Debug\net5.0\Homework_lesson3.csproj.AssemblyReference.cache
+C:\Programmēšana\Homework_lesson3\Homework_lesson3\obj\Debug\net5.0\Homework_lesson3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programmēšana\Homework_lesson3\Homework_lesson3\obj\Debug\net5.0\Homework_lesson3.AssemblyInfoInputs.cache
+C:\Programmēšana\Homework_lesson3\Homework_lesson3\obj\Debug\net5.0\Homework_lesson3.AssemblyInfo.cs
+C:\Programmēšana\Homework_lesson3\Homework_lesson3\obj\Debug\net5.0\Homework_lesson3.csproj.CoreCompileInputs.cache
